@@ -118,3 +118,13 @@ footer{
 #credimg{
     float: right
 }
+#grandmarsection{
+    margin: 0;
+    padding: 0;
+    
+    background-color: azure;
+    color: red;
+    font-size: 20px;
+    
+}
+
